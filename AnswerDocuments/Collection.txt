@@ -1,0 +1,52 @@
+
+DataBase Name = "Assessment2";
+
+collection name = "Players";
+
+[{
+  "_id": 1,
+  "name": "Kevin",
+  "rank": 1,
+  "Primary_Character": "Monkey",
+  "Secondary_Character": "Teach",
+  "Primary_Character_Play_Time": 55,
+  "Secondary_Character_Play_Time": "33"
+},{
+  "_id": 2,
+  "name": "DevilChild",
+  "rank": 3,
+  "Primary_Character": "Teach",
+  "Secondary_Character": "Sarah",
+  "Primary_Character_Play_Time": 62,
+  "Secondary_Character_Play_Time": "28"
+},{
+  "_id": 3,
+  "name": "xbestkiller",
+  "rank": 2,
+  "Primary_Character": "Sarah",
+  "Secondary_Character": "Monkey",
+  "Primary_Character_Play_Time": 46,
+  "Secondary_Character_Play_Time": "32"
+}]
+
+collection name = "Characters";
+
+[{
+  "_id": 1,
+  "name": "Monkey",
+  "class": "Fighter",
+  "playtime": 32,
+  "avatar": "https://i.pinimg.com/originals/ea/d6/ca/ead6ca66cbd52dab00bd90f6d1985756.jpg"
+},{
+  "_id": 2,
+  "name": "Sarah",
+  "class": "Healer",
+  "playtime": 0,
+  "avatar": "https://i.pinimg.com/736x/20/72/21/207221288537479d9493e569778ba053--league-of-legends-support-league-legends.jpg"
+},{
+  "_id": 3,
+  "name": "Teach",
+  "class": "Sniper",
+  "playtime": 0,
+  "avatar": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5796e3d258e95471/5e83cb29cfad926479634951/Graves_00_Base-Cigar.jpg?quality=90&width=1215"
+}]

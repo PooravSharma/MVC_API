@@ -1,0 +1,297 @@
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\appsettings.json
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.exe
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.deps.json
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.runtimeconfig.json
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.pdb
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.csproj.AssemblyReference.cache
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.AssemblyInfoInputs.cache
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.AssemblyInfo.cs
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.csproj.CoreCompileInputs.cache
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\scopedcss\bundle\MVC_web.styles.css
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.csproj.CopyComplete
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\refint\MVC_web.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.pdb
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.genruntimeconfig.cache
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\obj\Debug\net6.0\ref\MVC_web.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\DnsClient.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\Snappier.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\30045900\Documents\Assessments\Database\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\appsettings.Development.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\appsettings.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.exe
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.deps.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.runtimeconfig.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MVC_web.pdb
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\DnsClient.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Bson.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Driver.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\SharpCompress.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Snappier.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ZstdSharp.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.csproj.AssemblyReference.cache
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.GeneratedMSBuildEditorConfig.editorconfig
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.AssemblyInfoInputs.cache
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.AssemblyInfo.cs
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.csproj.CoreCompileInputs.cache
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.MvcApplicationPartsAssemblyInfo.cs
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.MvcApplicationPartsAssemblyInfo.cache
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets\msbuild.MVC_web.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC_web.props
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC_web.props
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC_web.props
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets.pack.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets.build.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\staticwebassets.development.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\scopedcss\bundle\MVC_web.styles.css
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.csproj.CopyComplete
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\refint\MVC_web.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.pdb
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\MVC_web.genruntimeconfig.cache
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\obj\Debug\net6.0\ref\MVC_web.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\AnswerDocuments\Characters.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\AnswerDocuments\Players.json
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Humanizer.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MessagePack.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\MessagePack.Annotations.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.Build.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.Common.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.Configuration.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.Frameworks.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.Packaging.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.Protocol.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\NuGet.Versioning.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Composition.Convention.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Composition.Hosting.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Composition.Runtime.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
