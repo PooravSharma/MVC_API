@@ -116,7 +116,23 @@ namespace MVC_web.Controllers
                 {
                     return NotFound($"Character with Id = {id} not found");
                 }
+                List<Players> playerList = playersServices.GetAll();
+                foreach (var player in playerList)
+                {
+                    if (player.Primary_Character == character.Name)
+                    {
+                        player.Primary_Character = "deleted";
+                        player.Primary_Character_PlayTime = 0;
 
+                    }
+                    if (player.Secondary_Character == character.Name)
+                    {
+                        player.Secondary_Character = "deleted";
+                        player.Secondary_Character_PlayTime = 0;
+
+                    }
+                    playersServices.Update_with_ID(player.Id, player);
+                }
                 characterServices.Delete_with_ID(character.Id);
 
             }
