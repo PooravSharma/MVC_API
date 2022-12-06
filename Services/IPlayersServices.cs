@@ -12,7 +12,7 @@ namespace MVC_web.Services
 
         string Delete_with_ID(int id);
 
-        string TopRank(Players player);
+        string TopRank();
 
         List<Players> Get_Player_Rank();
         List<Players> Get_Charactertime_Primary();

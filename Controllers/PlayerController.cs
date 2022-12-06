@@ -23,6 +23,7 @@ namespace MVC_web.Controllers
         [HttpGet("Get all Players")]
         public ActionResult<List<Players>> GetAll()
         {
+            playersServices.TopRank();
             return playersServices.GetAll();
         }
 
@@ -35,13 +36,14 @@ namespace MVC_web.Controllers
             {
                 return NotFound($"Player with the ID = {id} not found");
             }
-            playersServices.TopRank(player);
+            playersServices.TopRank();
             return player;
 
         }
         [HttpGet("Get Players in accending rank order")]
         public ActionResult<List<Players>> Player_Rank_Sorted()
         {
+            playersServices.TopRank();
             return playersServices.Get_Player_Rank();
         }
 
@@ -65,15 +67,16 @@ namespace MVC_web.Controllers
             }
             if (characterName is null)
             {
-                return NotFound($"That Character does not exist");
+                return NotFound($"That Primary Character does not exist");
             }
             if (characterName2 is null)
             {
-                return NotFound($"That Character does not exist");
+                return NotFound($"That Secondary Character does not exist");
             }
             playersServices.Create(players);
-            playersServices.TopRank(players);
-            playersServices.PlayerRanker(players);
+             playersServices.PlayerRanker(players);
+            playersServices.TopRank();
+           
             return CreatedAtAction(nameof(Get), new { id = players.Id }, players);
 
 
@@ -100,16 +103,17 @@ namespace MVC_web.Controllers
             }
             if (characterName is null)
             {
-                return NotFound($"That Character does not exist");
+                return NotFound($"That Primary Character does not exist");
             }
             if (characterName2 is null)
             {
-                return NotFound($"That Character does not exist");
+                return NotFound($"That Secondary Character does not exist");
             }
 
             playersServices.Update_with_ID(id, players);
-            playersServices.TopRank(players);
             playersServices.PlayerRanker(players);
+            playersServices.TopRank();
+            
             return NoContent();
         }
 
@@ -147,15 +151,16 @@ namespace MVC_web.Controllers
                 }
                 if (characterName is null)
                 {
-                    return NotFound($"That Character does not exist");
+                    return NotFound($"That Primary Character does not exist");
                 }
                 if (characterName2 is null)
                 {
-                    return NotFound($"That Character does not exist");
+                    return NotFound($"That Secondary Character does not exist");
                 }
                 playersServices.Update_Multiple(players);
-                playersServices.TopRank(players);
                 playersServices.PlayerRanker(players);
+                playersServices.TopRank();
+                
                 // return Ok("Player with the Id = "+ player.Id +" has been updated");
             }
             return NoContent();

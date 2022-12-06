@@ -13,10 +13,12 @@ namespace MVC_web.Controllers
 
 
         private readonly ICharactersServices characterServices;
+        private readonly IPlayersServices playersServices;
 
-        public CharacterController(ICharactersServices characterServices)
+        public CharacterController(ICharactersServices characterServices, IPlayersServices playersServices)
         {
             this.characterServices = characterServices;
+            this.playersServices = playersServices;
         }
 
 
@@ -59,12 +61,16 @@ namespace MVC_web.Controllers
         public ActionResult Put(int id, [FromBody] Characters character)
         {
             var existingPlayer = characterServices.Get_with_ID(id);
-
+            
+           
+            
             if (existingPlayer == null)
             {
                 return NotFound($"Character with Id = {id} not found");
             }
-
+            
+            characterServices.Update_with_ID(id, character);
+         
             return NoContent();
         }
 
@@ -73,11 +79,27 @@ namespace MVC_web.Controllers
         public ActionResult Delete(int id)
         {
             var character = characterServices.Get_with_ID(id);
+            List<Players> playerList = playersServices.GetAll();
             if (character == null)
             {
-                return NotFound($"Players with Id = {id} not found");
+                return NotFound($"Character with Id = {id} not found");
             }
-
+            foreach (var player in playerList)
+            {
+                if (player.Primary_Character == character.Name)
+                {
+                    player.Primary_Character = "deleted";
+                    player.Primary_Character_PlayTime = 0;
+                   
+                }
+                if (player.Secondary_Character == character.Name)
+                {
+                    player.Secondary_Character = "deleted";
+                    player.Secondary_Character_PlayTime = 0;
+                   
+                } 
+                playersServices.Update_with_ID(player.Id, player);
+            }
             characterServices.Delete_with_ID(character.Id);
 
             return Ok($"Character with Id = {id} deleted");

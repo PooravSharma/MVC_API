@@ -48,14 +48,14 @@ namespace MVC_web.Services
             _Players.ReplaceOne(player => player.Id == id, player);
             return ("Player with Id = "+player.Id+ " has been updated");
         }
-        public string TopRank(Players player)
+        public string TopRank()
         {
             List<Players> players = _Players.Find(players => true).ToList(); ;
             foreach (var ranker in players)
             {
                 if (ranker.Rank.Equals(1))
                 {
-                    return ("Player " + player + " is ranked number One");
+                    Console.WriteLine("Player with the ID = " + ranker.Id+ " is ranked number One");
 
                 }
             }
