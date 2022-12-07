@@ -55,22 +55,46 @@ namespace MVC_web.Controllers
             return CreatedAtAction(nameof(Get), new { id = character.Id }, character);
 
         }
+        // POST api/<CharacterController>
+        [HttpPost("Add Many Character")]
+        public ActionResult<Characters> PostMany([FromBody] Characters[] characterList)
+
+
+        {       
+            foreach (var character in characterList)
+            {
+                Characters existingCharacter = characterServices.Get_with_ID(character.Id);
+                if (existingCharacter != null)
+                {
+                    return NotFound($"Character with the id = " +existingCharacter.Id+ " already exists");
+                }
+               
+             
+                 characterServices.Create(character);
+                // return Ok("Player with the Id = "+ player.Id +" has been updated");
+            }
+            return NoContent();        
+
+
+           
+
+        }
 
         // PUT api/<CharacterController>/5
         [HttpPut("Update using {id}")]
         public ActionResult Put(int id, [FromBody] Characters character)
         {
             var existingPlayer = characterServices.Get_with_ID(id);
-            
-           
-            
+
+
+
             if (existingPlayer == null)
             {
                 return NotFound($"Character with Id = {id} not found");
             }
-            
+
             characterServices.Update_with_ID(id, character);
-         
+
             return NoContent();
         }
 
@@ -90,14 +114,14 @@ namespace MVC_web.Controllers
                 {
                     player.Primary_Character = "deleted";
                     player.Primary_Character_PlayTime = 0;
-                   
+
                 }
                 if (player.Secondary_Character == character.Name)
                 {
                     player.Secondary_Character = "deleted";
                     player.Secondary_Character_PlayTime = 0;
-                   
-                } 
+
+                }
                 playersServices.Update_with_ID(player.Id, player);
             }
             characterServices.Delete_with_ID(character.Id);

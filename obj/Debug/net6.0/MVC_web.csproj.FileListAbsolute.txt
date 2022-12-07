@@ -295,8 +295,6 @@ H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\
 H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 H:\Assessment\ProgrammingDiploma\MVC_DataBase\Assessment 2\Assessment 2\MVC_web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-H:\Assessment\ProgrammingDiploma\MVC_DataBase\MVC_API\bin\Debug\net6.0\AnswerDocuments\Characters.json
-H:\Assessment\ProgrammingDiploma\MVC_DataBase\MVC_API\bin\Debug\net6.0\AnswerDocuments\Players.json
 H:\Assessment\ProgrammingDiploma\MVC_DataBase\MVC_API\bin\Debug\net6.0\appsettings.Development.json
 H:\Assessment\ProgrammingDiploma\MVC_DataBase\MVC_API\bin\Debug\net6.0\appsettings.json
 H:\Assessment\ProgrammingDiploma\MVC_DataBase\MVC_API\bin\Debug\net6.0\MVC_web.exe
